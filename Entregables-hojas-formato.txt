@@ -6,3 +6,29 @@
 + Informe Avance Semanal Proyecto -> 3 hojas/excel
 + Registro de Riesgo -> 1 hoja (dependiendo la cantidad de riesgos)/excel
 + Acta de Reunion de Seguimiento -> 1 hoja x cada Acta (minimo 3, segun el profe)/word
+
+Leyenda:
+Analista (A1)
+Programador (P1,P2)
+Jefe de proyectos (JP1) Miguel Angel Cotrina
+
+Plan de proyecto :
+INTRODUCCIÓN								                                JP1
+RESUMEN EJECUTIVO							                              JP1
+ANTECEDENTES								                                JP1
+OBJETIVO DEL PROYECTO							                          JP1
+ALCANCE DEL PROYECTO							                          A1
+REQUERIMIENTOS DEL PROYECTO						                      A1
+ESTRATEGIA DE EJECUCION DEL PROYECTO					              P1/P2
+ORGANIZACIÓN DEL PROYECTO						                        JP1
+CRONOGRAMA DE ACTIVIDADES						                        JP1
+ACTIVIDADES DE SOPORTE EN LA ADMINISTRACION DEL PROYECTO		P1/P2
+Unificar el documento A1
+
+Cronograma                      JP1
+
+Aceptacion de Entregables       A1
+Informe Avance Semanal Proyecto A1
+Registro de Riesgo              A1
+Acta de Reunion de Seguimiento  A1
+
