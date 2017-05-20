@@ -30,5 +30,5 @@ Cronograma                      JP1
 Aceptacion de Entregables       A1
 Informe Avance Semanal Proyecto A1
 Registro de Riesgo              A1
-Acta de Reunion de Seguimiento  A1 chupame la pinga
+Acta de Reunion de Seguimiento  A1 
 
